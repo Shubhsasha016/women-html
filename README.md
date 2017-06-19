@@ -1,56 +1,32 @@
-# women-html
+# women2-html
 <html>
 <head>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
-<title>WOMEN EMPOWERMENT</title>
+<title>Pet Shop</title>
 <link href="css/style.css" rel ="stylesheet" type="text/css"/>
 </head> 
-<body background ="BACK.jpg";>
+<body background ="images/back.gif";>
 <div id="wrapper"><!--end of wrapper -->
-<div id="logo"><img src="final.jpg" width=700px></div>
+<div><img src="images/logo.gif"></div>
 <div id="header">
-<marquee><p>A STRONG WOMEN KNOWS THAT BEING STRONG IS NOT AN OPTION FOR HER,IT's A NECESSITY"</p></marquee>
-<ul><br/>
-<li><a href="#">HOME</a></li>
-<li><a href="petinfo.html">MISSIONS</a></li>
-<li><a href="3D_zoom_one.html">SUCCESS STORIES</a></li>
-<li><a href="our doctor.html">YOUR PROBLEMS</a></li>
-<li><a href="contact.html">CONTACT US</a></li>
-</ul>
-<div id="image"><img src="bg.jpg" width=970px height=800px>
-</div>
-</div>
-<div id="bodypart">
-<div id="bodyleft">
-<h2>PROGRAMS</h2>
 <ul>
-<li><a href = "#">SAFETY AND EDUCATION OF A GIRL CHILD</li>
-<li><a href = "#">STAY INDEPENDENT(FOR WIDOWS)</li>
-<li><a href = "doctor.html">SOCIAL COOPERATION</li>
-<li><a href = "#">JOIN THE COMMUNITY</li>
-<li><a href = "#">SHARING SOLUTIONS</li>
+<li><a href="index.html">HOME</a></li>
+<li><a href="petinfo.html">PET INFO</a></li>
+<li><a href="3D_zoom_one.html">ACCESORIES</a></li>
+<li><a href="our doctor.html">HEALTHCARE</a></li>
+<li><a href="contact.html">CONTACT</a></li>
 </ul>
-</div><!--end of bodyleft-->
-<div id="bodyright">
-<h2>Welcome To Our Website</h2>
-<p>The Mission for WOMEN Empowerment was launched by the students of miet with the aim to strengthen overall processes that promote all-round Development of Women.
-
-It has the mandate to strengthen the inter-sector convergence; facilitate the process of coordinating all the women’s welfare and socio-economic development programmes across ministries and departments.  The Mission aims to provide a single window service for all programmes run by the Government for Women under aegis of various Central Ministries.
-
-In light with its mandate, the Mission has been named Mission Poorna Shakti, implying a vision for holistic empowerment of women.
-
-The National Resource Center for Women has been set up which functions as a national convergence center for all schemes and programmes for women. It acts as a central repository of knowledge, information, research and data on all gender related issues and is the main body servicing the National and State Mission Authority.
-
-Mission Statement
-
-To strengthen the processes which promote holistic development and empowerment of women, gender equality and gender justice through inter-sectoral convergence of programmes that impact women, forge synergy among various stakeholders and create an enabling environment conducive to social change.
-</p>
-</div><!--end of bodyright-->
-<br clear="all"/>
-</div><!--end of bodypart-->
-<div id ="footer">
-copyright &copy :SPARKLING DEVELOPERS</div><!--end of footer-->
-<br clear="all"/>
 </div>
+<div id="infowrapper">
+<div id="pethead"><h2>Popular Dogs And Cats</h2>
+<div id ="petdeatils"><h3>1.Bichon Frise</h3><img src="images/Bichon Frise.jpg">A wonderful addition to the family, the Bichon Frisé will play with and, more importantly, tire out your kids — all the while with a happy-go-lucky attitude. And when he's not doing acrobatic jumps off your furniture, he loves getting under the covers and licking sweet nothings in your ear.</div>
+<br>
+<div id ="petdeatils"><h3>2.Old English Sheepdog</h3><img src="images/Old English Sheepdog.jpg">You know the strong, silent type that you just stare at in amazement? Well, old Bobtail — as he's called by his adoring fans — isn't one of them. The Old English Sheepdog prefers sauntering about and letting out his trademark bark, which sounds somewhat like two pots clanging together. Still, we love this guy and he loves us back.</div>
+</div>
+</div><div id="next"><a href="petinfo_1.html"><b>Next -></a></div>
+<div id ="footer">
+copyright &copy :SashaTechnologies</div><!--end of footer-->
+<br clear="all"/>
+</div><!--end of wrapper -->
 </body>
 </html>
